@@ -1,6 +1,6 @@
 # Overview
 
-This program simply prints "Hello World!!" out on the display screen.
+This program is a number guessing game that randomly selects a number to be guessed that is influenced by an upper limit input by the user. The "reward" at the end is the output, "Hello World!!"
 
 I created this software to create a program that functions and show that I could create something.
 
